@@ -49,7 +49,7 @@ The project implements various advanced SQL queries to analyze and extract valua
 ---
 	1.	Run the create_database.sql script to set up the database schema and tables.
 	2.	Populate the tables with the relevant sales and customer data (confidential).
-	3.	Execute queries from queries.sql to perform analysis and generate reports.
+	3.	Execute queries from Queries-for-Analysis to perform analysis and generate reports.
 
 ### Conclusion
 ---
